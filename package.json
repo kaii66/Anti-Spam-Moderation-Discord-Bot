@@ -2,17 +2,14 @@
   "name": "anti_spam_bot",
   "version": "1.0.0",
   "description": "Anti spam bot  ",
-  "main": "monitor.js",
-  "scripts": {
-    "test": "!antispam"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sudeshkumars/Anti-Spam-Moderation-Discord-Bot.git"
   },
   "keywords": [
     "spam",
-    "moderation"
+    "moderation",
+    "discord-bot"
   ],
   "author": "Dubblu",
   "license": "MIT",
