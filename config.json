@@ -1,0 +1,37 @@
+{
+  "prefix": "!",
+
+
+  "monitor": {
+    "webhookUrl": "",
+    "pingUserId": "",
+    "pingRoleId": "",
+    "maxRestarts": 10,
+    "restartDelay": 5000
+  },
+
+
+
+"antiSpam": {
+    "enabled": true,
+    "imageThreshold": 2,
+       "linkThreshold": 3,
+    "timeWindow": 30000,
+    "checkEveryone": true,
+    "logChannelId": "",
+    "alertChannelId": "",
+    "appealChannelId": "",
+    "dmFailLogChannelId": "",
+    "notificationChannelId": "",
+    "compromisedRoleId": "",
+    "preserveRoles": [""], 
+    "exemptRoles": [""],
+    "exemptUsers": [""],
+    "trustedDomains": ["", "myrpserver.com"],
+    "logperms": ["",""],
+    "timeoutDuration": 86400000
+  },
+
+  "owner": ""
+}
+
