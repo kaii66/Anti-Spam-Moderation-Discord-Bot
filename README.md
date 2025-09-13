@@ -4,6 +4,8 @@ A powerful **Discord anti-spam and moderation bot** that protects your server fr
 (text, links, and image-based spam like **MrBeast giveaways, gambling ads, etc.**) while providing  
 advanced monitoring and moderation tools.
 
+https://github.com/sudeshkumars/userimages/blob/main/QUORITH%20OFFICAL%20LOGO.png
+
 Contact me: Discord:dubbluu 
 Email:doubblu@proton.me
 ---
