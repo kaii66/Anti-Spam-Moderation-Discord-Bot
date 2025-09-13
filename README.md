@@ -4,7 +4,8 @@ A powerful **Discord anti-spam and moderation bot** that protects your server fr
 (text, links, and image-based spam like **MrBeast giveaways, gambling ads, etc.**) while providing  
 advanced monitoring and moderation tools.
 
-![LOGO]([images/myimage.png](https://github.com/sudeshkumars/IMAGES/blob/32bbd22d2843ba9d6ec8e57b1dec9c4582b1e034/Discord%20bots.png))
+<img width="1280" height="640" alt="Discord bots" src="https://github.com/user-attachments/assets/683283d7-43e6-47ab-b587-d529039e528c" />
+
 
 
 
